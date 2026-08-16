@@ -12,7 +12,8 @@ I love diving deep into coding and algorithms, but my true passion lies in bring
 * 🔭 I’m currently working on projects involving **UAVs, Computer Vision, and Robot Dogs**.
 * ⚡ I enjoy hands-on hardware design, including building power hub circuits for safe high-current discharge, isolating signals, and managing power distribution for servos and motor drivers.
 * 🌱 I’m always exploring new ways to optimize autonomous systems and real-time IoT integrations.
-* 📫 Let's connect: [LinkedIn]([https://www.linkedin.com/in/tin-phan-30187b375/]) | [Email](mailto:beniot.robaiot1137@gmail.com)
+* 📫 See my profile: [LinkedIn]([https://www.linkedin.com/in/tin-phan-30187b375/])
+* 📫 Contact me: [Email](mailto:beniot.robaiot1137@gmail.com)
 * 🎥 Watch my video process: [![YouTube]](https://www.youtube.com/watch?v=3dtrxoOXGr4&feature=youtu.be)
 
 ## 🛠️ Tech Stack & Tools
@@ -28,8 +29,3 @@ I love diving deep into coding and algorithms, but my true passion lies in bring
 ![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=internet-of-things&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-![Beniot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-RobAIoT&show_icons=true&theme=radical)
-un fact: ...
